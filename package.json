@@ -1,0 +1,25 @@
+{
+  "name": "pizzichini-2daentrega-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franpichi/PreEntrega2-Pizzichini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franpichi/PreEntrega2-Pizzichini/issues"
+  },
+  "homepage": "https://github.com/Franpichi/PreEntrega2-Pizzichini#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "sweetalert": "^2.1.2"
+  }
+}
